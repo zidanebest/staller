@@ -1,0 +1,5 @@
+C:/MainDic/staller/build/CMakeFiles/staller_test.dir
+C:/MainDic/staller/build/CMakeFiles/ALL_BUILD.dir
+C:/MainDic/staller/build/CMakeFiles/ZERO_CHECK.dir
+C:/MainDic/staller/build/source/CMakeFiles/stallar.dir
+C:/MainDic/staller/build/source/CMakeFiles/ALL_BUILD.dir
